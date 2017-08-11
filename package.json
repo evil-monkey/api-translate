@@ -1,0 +1,23 @@
+{
+  "name": "api-translate",
+  "version": "1.0.0",
+  "description": "POC api-translate",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evil-monkey/api-translate.git"
+  },
+  "author": "evilmonkey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evil-monkey/api-translate/issues"
+  },
+  "homepage": "https://github.com/evil-monkey/api-translate#readme",
+  "dependencies": {
+    "mongoose": "^4.11.6",
+    "restify": "^5.1.0"
+  }
+}
